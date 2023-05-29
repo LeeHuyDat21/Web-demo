@@ -1,0 +1,23 @@
+tham khoả phần class,properties ảo
+.left .notifications-popup > div :tham khảo
+.middle .stories .story:nth-child(1){
+    background: url('./images/story-1.jpg')
+    no-repeat center center/cover;
+}
+.middle .stories .story:nth-child(2) {
+    background: url('./images/story-2.jpg') no-repeat center center/cover;
+}
+.middle .stories .story:nth-child(3) {
+    background: url('./images/story-3.jpg') no-repeat center center/cover;
+}
+.middle .stories .story:nth-child(4) {
+    background: url('./images/story-4.jpg') no-repeat center center/cover;
+}
+.middle .stories .story:nth-child(5) {
+    background: url('./images/story-5.jpg') no-repeat center center/cover;
+}
+.middle .stories .story:nth-child(6) {
+    background: url('./images/story-6.jpg') no-repeat center center/cover;
+} =>tham khảo
+customerze-theme-tham khảo
+

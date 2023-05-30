@@ -1,0 +1,4 @@
++ tạo các hàm trong js -hoàn thành
++ ChanActiveItem -hoàn thành
+
+một số chứac năng của trang web chưa hoàn thành như phần ẩn đi màu sắc hay cỡ chữ
